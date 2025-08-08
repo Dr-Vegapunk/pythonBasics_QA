@@ -14,4 +14,5 @@ email=input("Enter email: ")
 print(f"User Information:")
 print(f"Username: {userName}")
 print(f"Age: {age}")
+
 print(f"Email: {email}")
